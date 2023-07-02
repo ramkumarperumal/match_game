@@ -1,0 +1,22 @@
+.thumbnail-item-con {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.thumbnail-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.thumbnail-img {
+  height: 200px;
+  width: 200px;
+}
+
+@media screen and (max-width: 767px) {
+  .thumbnail-img {
+    height: 90px;
+    width: 90px;
+  }
+}

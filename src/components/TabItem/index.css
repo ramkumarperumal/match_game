@@ -1,0 +1,22 @@
+.tab-item-con {
+  margin-right: 20px;
+}
+
+.tab-button {
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 600;
+  border: 0px;
+  cursor: pointer;
+  padding: 10px;
+}
+@media screen and (max-width: 767px) {
+  .tab-button {
+    font-size: 24px;
+  }
+}
+.highlight-tab {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
